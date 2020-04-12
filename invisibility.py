@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Mar 20 20:12:33 2020
-
-@author: Namratha
-"""
-
 #invisibility cloak
 import numpy as np
 import cv2
